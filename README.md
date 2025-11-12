@@ -28,12 +28,12 @@ This project implements and compares two fundamental classification algorithms t
 ## 🏗️ Project Structure
 
 breast_cancer_classification/
-├── data/               # Dataset storage\n
-├── notebooks/          # Jupyter notebooks for analysis\n
-├── src/                # Python source code\n
-├── models/             # Saved model files\n
-├── images/             # Visualizations and plots\n
-└── README.md          # Project documentation\n
+├── data/               # Dataset storage
+├── notebooks/          # Jupyter notebooks for analysis
+├── src/                # Python source code
+├── models/             # Saved model files
+├── images/             # Visualizations and plots
+└── README.md          # Project documentation
 
 ## ⚙️ Installation & Setup
 
@@ -133,12 +133,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 You might also want to create these files to make your repository more professional:
 
 **1. requirements.txt** (in your project root)\n
-pandas>=1.3.0\n
-numpy>=1.21.0\n
-matplotlib>=3.4.0\n
-seaborn>=0.11.0\n
-scikit-learn>=1.0.0\n
-jupyter>=1.0.0\n
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+jupyter>=1.0.0
 
 **2. .gitignore** (in your project root)
 
@@ -146,13 +146,13 @@ jupyter>=1.0.0\n
 .ipynb_checkpoints
 
 # Environment
-bc_classification/\n
+bc_classification/
 env/
 
 # OS
-.DS_Store\n
+.DS_Store
 Thumbs.db
 
 # IDE
-.vscode/\n
+.vscode/
 .idea/
